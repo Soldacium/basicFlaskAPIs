@@ -1,0 +1,8 @@
+pip install virtualenv
+source venv/Scripts/activate    // OR deactivate
+
+
+//dependencies
+flask
+flask-resful
+flask-jwt
